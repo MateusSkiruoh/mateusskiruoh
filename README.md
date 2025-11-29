@@ -62,13 +62,13 @@ align = "left"
 alt = "GitHub Stats"
 height = "200"
 style = "padding-right: 10px;"
-src = "https://github-readme-stats.vercel.app/api?username=mateusskiruoh&show_icons=true&theme=tokyonight&include_all_commits=true&locate=pt-br"/>
+src = "https://github-readme-stats.vercel.app/api?username=MateusSkiruoh&show_icons=true&theme=tokyonight&include_all_commits=true&locate=pt-br"/>
 
 <img
  align = "left"
  alt = "GitHub Stats"
  height = "200"
- src ="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusskiruoh&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=5"
+ src ="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusSkiruoh&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=5"
 />
 
 </p>
