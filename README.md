@@ -1,6 +1,6 @@
 # Mateus
 
- **`Desenvolvedor Web`**
+ **`Data Science & Engineering`**
 
 Me chamo Mateus Ramos, tenho 22 anos e moro no Rio de Janeiro. Concluí o ensino médio no CIEMS, juntamente do curso técnico em informática. Atualmente estou cursando Análise e Desenvolvimento de Sistemas na UNISUAM. Gosto muito de tecnologia e as inovações que ela traz.
 
