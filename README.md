@@ -1,46 +1,65 @@
-# Mateus
+<div align="center">
 
- **`Data Science & Engineering`**
+# Olá, sou o Mateus Ramos 👋
 
-Me chamo Mateus Ramos, tenho 22 anos e moro no Rio de Janeiro. Concluí o ensino médio no CIEMS, juntamente do curso técnico em informática. Atualmente estou cursando Análise e Desenvolvimento de Sistemas na UNISUAM. Gosto muito de tecnologia e as inovações que ela traz.
+### 📊 Cientista de Dados & 💻 Arquiteto de Software
+*Transformando lógica de dados, modelos de Inteligência Artificial local e arquiteturas complexas em aplicações reais.*
 
+<br>
+
+[![Website Portfólio](https://img.shields.io/badge/Portfólio-mateusramos.tech-09090B?style=for-the-badge&logo=icloud&logoColor=white)](https://mateusramos.tech)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-mateus--o--ramos-09090B?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mateus-o-ramos)
+[![GitHub](https://img.shields.io/badge/GitHub-MateusSkiruoh-09090B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MateusSkiruoh)
+
+</div>
 
 ---
 
-### 🤖 Linguagens e Tecnologias:
-<img
-align= left
-alt="HTML"
-title = "HTML"
-width = "30px"
-style = "padding-right: 10px;"
-src ="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
-          
+### ⚡ Sobre Mim
+* 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na **UNISUAM** (com conclusão prevista para dezembro de 2027).
+* 🛠️ Atuo na interseção entre a infraestrutura de dados/IA e o desenvolvimento de aplicações mobile/web.
+* 📍 Moro no **Rio de Janeiro, Brasil**, aberto a oportunidades de estágio e projetos desafiadores.
 
-<img
-align= left
-alt="CSS"
-title = "CSS"
-width = "30px"
-style = "padding-right: 10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-          
+---
 
-<img
-align= left
-alt="JavaScript"
-title = "JavaScript"
-width = "30px"
-style = "padding-right: 10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+### 🧠 O Ecossistema Técnico (Tech Stack)
 
-<img
-align= left
-alt="Git"
-title = "Git"
-width = "30px"
-style = "padding-right: 10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-          
-<br>
-<br>
+<div align="left">
+
+| Domínio | Tecnologias Principais |
+| :--- | :--- |
+| **Dados & IA** | `Python` `Pandas` `SQL Avançado` `Modelos GGUF & Ollama (LLMs Locais)` |
+| **Desenvolvimento** | `JavaScript` `React Native` `Expo Router` `HTML5` `CSS3` |
+| **Infraestrutura & Ferramentas** | `Git` `GitHub` `VS Code` `Google Colab` `Firebase` |
+
+</div>
+
+---
+
+### 🚀 Principais Projetos e Casos de Estudo
+
+* **[A.M.E.L.I.E.](https://github.com/MateusSkiruoh)** — Assistente de inteligência artificial pessoal e ferramenta de automação com total privacidade de dados, rodando inteiramente de forma local com LLMs.
+* **[Cognikids](https://github.com/MateusSkiruoh)** — Aplicação mobile educacional gamificada focada em crianças com deficiência intelectual, desenvolvida com React Native/Expo e integrada ao Firebase com relatórios automatizados em PDF.
+* **[Ambiente Virtual de Aprendizagem (AVA)](https://github.com/MateusSkiruoh)** — Plataforma mobile de ensino estruturada sob encomenda utilizando navegação avançada em Expo Router.
+
+---
+
+### 🤝 Soft Skills & Abordagem Profissional
+* **Visão de Produto:** Não foco apenas em escrever código isolado; compreendo as dores reais do utilizador final e traduzo requisitos de negócios em soluções funcionais.
+* **Autonomia & Curiosidade Técnica:** Capacidade comprovada de pesquisar, estruturar e implementar arquiteturas complexas (como IA local e bases de dados) de forma independente.
+* **Rigor Metodológico:** Forte atenção aos fundamentos de engenharia, documentação estruturada e escrita de código limpo e sustentável.
+
+---
+
+<div align="center">
+
+### 📈 Estatísticas do GitHub
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=MateusSkiruoh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=09090B&title_color=F4F4F5&text_color=A1A1AA&icon_color=10B981" alt="Estatísticas do GitHub de Mateus" />
+</p>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusSkiruoh&layout=compact&theme=tokyonight&hide_border=true&bg_color=09090B&title_color=F4F4F5&text_color=A1A1AA" alt="Linguagens Mais Usadas" />
+</p>
+
+</div>
