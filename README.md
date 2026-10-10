@@ -29,8 +29,8 @@
 | Domínio | Tecnologias Principais |
 | :--- | :--- |
 | **Dados & IA** | `Python` `Pandas` `SQL Avançado` `Modelos GGUF & Ollama (LLMs Locais)` |
-| **Desenvolvimento** | `JavaScript` `React Native` `Expo Router` `HTML5` `CSS3` |
-| **Infraestrutura & Ferramentas** | `Git` `GitHub` `VS Code` `Google Colab` `Firebase` |
+| **Desenvolvimento** | `JavaScript` `React` `HTML5` `CSS3` |
+| **Infraestrutura & Ferramentas** | `Git` `GitHub` `VS Code` `Google Colab` `Firebase` `DataBricks` |
 
 </div>
 
