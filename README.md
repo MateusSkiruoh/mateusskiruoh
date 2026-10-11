@@ -2,7 +2,7 @@
 
 # Olá, sou o Mateus Ramos 👋
 
-### 📊 Cientista de Dados & 💻 Arquiteto de Software
+### 📊 Cientista de Dados & 💻 Desenvolvedor de Software
 *Transformando lógica de dados, modelos de Inteligência Artificial local e arquiteturas complexas em aplicações reais.*
 
 <br>
